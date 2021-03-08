@@ -136,6 +136,7 @@
 		<license.copyrightOwners>BigDataViewer developers.</license.copyrightOwners>
 
 		<jhdf5.version>19.04.0</jhdf5.version>
+		<ui-behaviour.version>2.0.4</ui-behaviour.version>
 
 		<!-- NB: Deploy releases to the SciJava Maven repository. -->
 		<releaseProfiles>sign,deploy-to-scijava</releaseProfiles>
